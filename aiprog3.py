@@ -1,1 +1,1 @@
-print("naveen kumar")
+print("n")
